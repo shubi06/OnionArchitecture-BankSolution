@@ -47,8 +47,8 @@ This project follows the **Onion Architecture**, which enforces separation of co
 ### Installation Steps
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/Bank-Management-System.git
-   cd Bank-Management-System
+   git clone https://github.com/shubi06/OnionArchitecture-BankSolution
+   cd OnionArchitecture-BankSolution
    ```
 
 2. **Configure the database** (update `appsettings.json` with your connection string)
