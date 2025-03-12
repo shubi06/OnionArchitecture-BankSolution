@@ -1,0 +1,60 @@
+# Ignore Rider-specific files
+.idea/
+*.sln.iml
+*.sln.ide
+
+# Ignore build artifacts
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.app/
+*.ipa
+*.dSYM/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.cache
+
+# Logs and debug info
+*.log
+*.bak
+*.swp
+*.tmp
+*.ldb
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Dotnet CLI
+.dotnet/
+project.lock.json
+artifacts/
+
+# Rider workspace and settings
+.idea/
+*.iml
+
+# Resharper files
+*.DotSettings.user
+
+# Entity Framework Migrations
+Migrations/
+
+# Coverage and test results
+coverage/
+TestResults/
+*.trx
+*.testsettings
